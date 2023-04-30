@@ -1,2 +1,2 @@
-# Virtaul-Assistance-
+# Virtual-Assistance-
 Virtual Assistance using Python
